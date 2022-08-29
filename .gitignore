@@ -4,5 +4,4 @@ lib/
 cache/
 out/
 
-.gitignore
 trace.md
