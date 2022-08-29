@@ -1,0 +1,7 @@
+test/SchnoodleHackSolution.t.sol
+
+lib/
+cache/
+out/
+
+trace.md
