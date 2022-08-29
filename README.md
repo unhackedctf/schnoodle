@@ -16,7 +16,7 @@ after running smoothly for its first ~year, on 6/18, the ETH-SNOOD uniswap pair 
 
 review the code in this repo, find the exploit, and recover > 100 ETH. 
 
-(hint: the issue is in the token implementation, so focus on SchnoodleV9.sol and SchnoodleV9Base.sol. no need to look at the other files)
+(hint: the issue is in the token implementation, so focus on `src/SchnoodleV9.sol` and `src/imports/SchnoodleV9Base.sol`. no need to look at the other files)
 
 ## how to play
 
